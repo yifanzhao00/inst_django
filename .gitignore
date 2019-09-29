@@ -1,3 +1,6 @@
 .vscode/
 insta/__pycache__/
+inst/__pycache__
+inst/migrations/__pycache__
+inst/templates/__pycache__
 ppt/
